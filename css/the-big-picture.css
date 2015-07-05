@@ -21,3 +21,9 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+
+/* Nuhil */
+.invitation {
+	text-align: right;
+	padding-right: 50px;
+}
